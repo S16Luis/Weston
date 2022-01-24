@@ -88,3 +88,8 @@
     height: var(--tamano);
     margin-right: 15px;
 }
+
+/* Section Carousel */
+.carousel-weston-middle{
+    top: 35%
+}
