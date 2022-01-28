@@ -100,3 +100,8 @@
         height: 50vmax;
     }
 }
+@media screen and (max-width: 450px){
+    .vh-50{
+        height: 55vmax;
+    }
+}
